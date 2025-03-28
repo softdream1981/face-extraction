@@ -30,7 +30,7 @@ This project provides scripts to detect, extract, and organize unique faces from
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/face-extraction.git
+git clone https://github.com/softdream1981/face-extraction.git
 cd face-extraction
 ```
 
